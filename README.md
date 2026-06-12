@@ -13,9 +13,6 @@
 ## 📌 Project Overview
 
 This project demonstrates **Data Structures & Algorithms knowledge in Java** alongside **frontend development skills in React.js**. Six sorting algorithms are implemented twice — once in clean, commented Java (for DSA showcase), and once in JavaScript generators that drive frame-by-frame animations.
-
-Built to be added to a **frontend developer resume** and **GitHub portfolio**.
-
 ---
 
 ## ✨ Features
@@ -176,17 +173,6 @@ Stable           : Yes
 Before sorting: [64, 34, 25, 12, 22, 11, 90]
 After sorting:  [11, 12, 22, 25, 34, 64, 90]
 ```
-
----
-
-## 🖼 Screenshots
-
-> Add screenshots here after deploying. Suggested sections:
-> - Main Visualizer running Merge Sort
-> - Comparison Mode: Bubble vs Quick
-> - Complexity Reference Table
-> - Sorting History log
-
 ---
 
 ## 🛠 Tech Stack
@@ -202,20 +188,6 @@ After sorting:  [11, 12, 22, 25, 34, 64, 90]
 
 ---
 
-## 🔮 Future Enhancements
-
-- [ ] Step-by-step manual mode (advance one frame at a time)
-- [ ] Sound effects tied to bar height
-- [ ] Custom array input (type your own values)
-- [ ] Export sorting animation as GIF/video
-- [ ] Nearly-sorted and reverse-sorted array presets
-- [ ] Mobile gesture controls (swipe to pause/resume)
-- [ ] Add more algorithms: Shell Sort, Tim Sort, Radix Sort, Counting Sort
-- [ ] Spring Boot backend to run Java sorts server-side and return steps via API
-- [ ] Deploy to Vercel / Netlify with GitHub Actions CI
-
----
-
 ## 👤 Author
 
 **Ganesh Kumar Modanwal**  
@@ -223,8 +195,4 @@ Full Stack Developer (MERN Stack)
 GitHub: [@ganeshmod](https://github.com/ganeshmod)  
 LinkedIn: [ganesh-kumar-modanwal](https://linkedin.com/in/ganesh-kumar-modanwal-01a287251)
 
----
 
-## 📄 License
-
-MIT — free to use for portfolios, learning, and projects.
